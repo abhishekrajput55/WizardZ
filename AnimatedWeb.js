@@ -159,7 +159,7 @@ form.addEventListener("submit", (e) => {
 });
 //contact us code end
 //service icon click action start
-let serIcon = document.querySelectorAll(".card p i");
+let serIcon = document.querySelectorAll(".card p");
 let popupCont = document.querySelector(".popup");
 let popupIcon = document.querySelector(".popup i");
 let popupH = document.querySelector(".popup .para h2");
